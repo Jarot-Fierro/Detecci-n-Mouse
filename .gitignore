@@ -1,0 +1,17 @@
+# Ignorar imágenes comunes
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.webp
+*.svg
+*.raw
+*.ico
+*.heif
+*.heic
+pythonProject/runs/detect/train2/weights/best.pt
+pythonProject/runs/detect/train2/weights/last.pt
+pythonProject/yolov8x.pt
+pythonProject/yolov8m.pt

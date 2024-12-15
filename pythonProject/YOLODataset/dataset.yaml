@@ -1,0 +1,5 @@
+train: C:/Users/jarot/PycharmProjects/MachineLearningCert3/pythonProject/YOLODataset/train
+val: C:/Users/jarot/PycharmProjects/MachineLearningCert3/pythonProject/YOLODataset/val
+nc: 1
+
+names: ['mouse']
